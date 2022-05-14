@@ -1,4 +1,4 @@
-$( ".menu-toogle,.exit-btn, .link-side").click(function() {
+ço$( ".menu-toogle,.exit-btn, .link-side").click(function() {
     $(".side-default").addClass('side-open');
     $('.contato-parent').hide();
     $('.nav-logo-alt').fadeIn(300);
